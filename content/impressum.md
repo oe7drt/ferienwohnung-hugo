@@ -1,12 +1,9 @@
 +++
 title = "Impressum"
 summary = ""
-date = 2019-11-09T11:27:29+01:00
-categories = ["index"]
-tags = []
+date = 2019-12-14T12:23:26+01:00
 menu = "main"
 weight = 100
-draft = true
 
 +++
 
