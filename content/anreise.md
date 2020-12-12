@@ -12,18 +12,16 @@ draft = true
 
 ## Überblick der Lage
 
-![Lageplan Ötztal](/assets/img/lage_oetztal.jpg){:.lead}
+![Lageplan Ötztal](/assets/img/lage_oetztal.jpg)
 Eine Übersicht über das Ötztal
-{:.figure}
 
 Oetz liegt recht weit am Beginn des Ötztals. Von der "Ötztaler Höhe"[^1] aus sind
 es etwa 5 Fahrminuten (~ 5km).
 
 ## Fahrplan ab Oetz
 
-![Detail-Lageplan Oetz-Ötzerberg](/assets/img/lage_detail.jpg){:.lead}
+![Detail-Lageplan Oetz-Ötzerberg](/assets/img/lage_detail.jpg)
 Detail-Lageplan und Fahrtanweisung
-{:.figure}
 
 In Oetz angekommen folgen Sie am besten der Hauptstraße (B186) bis zum Kreisverkehr
 beim SPAR-Markt. Nehmen Sie die Ausfahrt in Richtung Kühtai (SPAR) und folgen

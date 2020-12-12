@@ -20,12 +20,13 @@ um._
 ## Technische Umsetzung
 
 Dominic Reich  
-<technik@ferienwohnung-reich.at>
+<technik@ferienwohnung-reich.at>  
+<https://oe7drt.com>
 
 Diese Webseite wird via [Github](https://www.github.com) und
 [Netlify](https://www.netlify.com) veröffentlicht. Die Seiten selber werden
 dabei mit dem statischen Website-Generator [Hugo](https://gohugo.io) erzeugt.
-Hugo greift wiederum auf das tolle
+Hugo greift wiederum auf das tolle Theme
 [Even](https://themes.gohugo.io/hugo-theme-even/) zurück.
 
 Damit das alles so läuft wie es soll, werfe ich hin und wieder einen Blick auf
